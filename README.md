@@ -22,18 +22,18 @@ gross_income: Gross Income (DECIMAL(10, 2))
 rating: Rating (FLOAT(2, 1))
 
 # Analysis Questions
-Total Sales by Branch
-Monthly Sales Trends
-Average Unit Price by Product Line
-Sales Distribution by Customer Type
-Gender-wise Sales Analysis
-Top Performing Cities
-Peak Sales Hours
-Average Rating by Product Line
-Gross Income by Branch
-Profitability Analysis
-Sales Performance Over Time
-Payment Methods Analysis
-Cost of Goods Sold (COGS) by Product Line
-VAT Contribution
-Sales Quantity Analysis
+-- Total Sales by Branch
+-- Monthly Sales Trends
+-- Average Unit Price by Product Line
+-- Sales Distribution by Customer Type
+-- Gender-wise Sales Analysis
+-- Top Performing Cities
+-- Peak Sales Hours
+-- Average Rating by Product Line
+-- Gross Income by Branch
+-- Profitability Analysis
+-- Sales Performance Over Time
+-- Payment Methods Analysis
+-- Cost of Goods Sold (COGS) by Product Line
+-- VAT Contribution
+-- Sales Quantity Analysis
